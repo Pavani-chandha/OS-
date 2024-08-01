@@ -1,8 +1,8 @@
 # Program file
 ![FCFS](FCFS.py)
 
-# EXPECTED OUTPUT
+# Expectedoutput(FCFS)
 ![EXPECTED OUTPUT(FCFS)](EXPECTED OUTPUT(FCFS).png)
 
-# EXECUTED OUTPUT
+# Executedoutput(FCFS)
 ![EXECUTED OUTPUT(FCFS)](EXECUTED OUTPUT(FCFS).png)
