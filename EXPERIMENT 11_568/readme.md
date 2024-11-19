@@ -2,10 +2,10 @@
 ![Dining-Philosopher](Dining-Philosopher.py)
 
 # Expected output
-![Expectedoutput(Dining-Philosopher)](Expectedoutput(Dining-Philosopher).jpg)
+![Expectedoutput(Dining-Philosopher)](Expectedoutput(Dining-Philosopher).png)
 
 # Expected output1
-![Expectedoutput1(Dining-Philosopher)](Expectedoutput1(Dining-Philosopher).jpg)
+![Expectedoutput1(Dining-Philosopher)](Expectedoutput1(Dining-Philosopher).png)
 
 # Executed output
-![Executedoutput(Dining-Philosopher](Executedoutput(Dining-Philosopher).jpg)
+![Executedoutput(Dining-Philosopher](Executedoutput(Dining-Philosopher).png)
