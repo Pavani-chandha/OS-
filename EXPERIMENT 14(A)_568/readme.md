@@ -2,7 +2,7 @@
 ![FIFO](FIFO.py)
 
 # Expected output
-![Expectedoutput(FIFO)](Expectedoutput(FIFO).png)
+![Expectedoutput(FIFO)](Expectedoutput(FIFO).jpg)
 
 # Executed output
-![Executedoutput(FIFO](Executedoutput(FIFO).png)
+![Executedoutput(FIFO](Executedoutput(FIFO).jpg)
