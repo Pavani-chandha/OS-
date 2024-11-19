@@ -1,8 +1,8 @@
 # Program file
-![Producer-Consumer](Producer-Consumer.py)
+![Producer_Consumer](Producer_Consumer.py)
 
 # Expectedoutput
-![Expectedoutput(Producer-Consumer)](Expectedoutput(Producer-Consumer).png)
+![Expectedoutput(Producer_Consumer)](Expectedoutput(Producer_Consumer).png)
 
 # Executedoutput
-![Executedoutput(Producer-Consumer)](Executedoutput(Producer-Consumer).png)
+![Executedoutput(Producer_Consumer)](Executedoutput(Producer_Consumer).png)
