@@ -2,7 +2,7 @@
 ![Singlelevel](Singlelevel.py)
 
 # Expected output
-![Expectedoutput(Singlelevel)](Expectedoutput(Singlelevel).png)
+![Expectedoutput(Single-level)](Expectedoutput(Single-level).png)
 
 # Executed output
-![Executedoutput(Singlelevel](Executedoutput(Singlelevel).png)
+![Executedoutput(Single-level](Executedoutput(Single-level).png)
